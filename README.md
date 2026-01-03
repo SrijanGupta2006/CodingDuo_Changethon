@@ -55,11 +55,11 @@ This approach reduces stress, saves time, encourages openness, and enables insti
 
 <h2>🛠️ Tech Stack (Planned)</h2>
 
-- <strong>Frontend:</strong> HTML, CSS, JavaScript (React – optional)  
-- <strong>Backend:</strong> Node.js / Spring Boot  
+- <strong>Frontend:</strong> HTML, CSS, JavaScript  
+- <strong>Backend:</strong> Spring Boot  
 - <strong>Authentication:</strong> JWT (Role-Based Access Control)  
-- <strong>Database:</strong> MySQL / MongoDB  
-- <strong>Deployment:</strong> Cloud-ready (scalable for multi-institution use)
+- <strong>Database:</strong> MySQL  
+- <strong>Deployment:</strong> Localhost
 
 ---
 
